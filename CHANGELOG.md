@@ -5,6 +5,8 @@
 
 * Updated and pinned dependency on `package:pedantic` to version 1.7.0.
 
+* Updated lower SDK constraint to match dependencies.
+
 ## 0.2.1
 
 * Removed unnecessary code.
