@@ -1,3 +1,5 @@
+* Replaced code with equivalent implementation provided by the SDK.
+
 ## 0.2.1
 
 * Removed unnecessary code.
