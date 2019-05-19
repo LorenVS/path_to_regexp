@@ -1,3 +1,5 @@
+## 0.3.0
+
 * Added a getter named `regExp` to `ParameterToken` for the regular expression
   used to match arguments.
 
