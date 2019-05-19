@@ -1,3 +1,6 @@
+* Added a getter named `regExp` to `ParameterToken` for the regular expression
+  used to match arguments.
+
 * Replaced code with equivalent implementation provided by the SDK.
 
 ## 0.2.1
