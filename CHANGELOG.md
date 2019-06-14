@@ -9,6 +9,8 @@
 
 * Updated lower SDK constraint to match dependencies.
 
+* Removed outdated documentation.
+
 ## 0.2.1
 
 * Removed unnecessary code.
